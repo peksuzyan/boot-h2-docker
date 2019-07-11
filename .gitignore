@@ -3,10 +3,12 @@
 **/.gradle
 **/build
 **/out
+**/target
 
 # IDE artifacts
 
 **/.idea
+**/*.iml
 
 # Application logs
 
